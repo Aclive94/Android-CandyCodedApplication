@@ -9,16 +9,15 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="final stage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_XL_API_27" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_27" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -58,7 +57,7 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-09-26T03:28:21.005Z" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
@@ -212,7 +211,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -234,10 +235,15 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="516" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1601083393705" />
-    <state x="209" y="0" key="CommitChangelistDialog2" timestamp="1601095929071">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="209" y="0" key="CommitChangelistDialog2" timestamp="1601890206142">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="209" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601890206142" />
     <state x="209" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601095929071" />
+    <state x="453" y="118" key="FileChooserDialogImpl" timestamp="1601890058247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601890058247" />
     <state width="1286" height="156" key="GridCell.Tab.0.bottom" timestamp="1601089566863">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -254,9 +260,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1286" height="156" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601089566863" />
-    <state x="174" y="6" key="SettingsEditor" timestamp="1601090884295">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="174" y="6" key="SettingsEditor" timestamp="1601890122894">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="174" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601890122894" />
     <state x="174" y="6" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1601090884295" />
     <state x="100" y="100" width="1146" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601088779049">
       <screen x="0" y="0" width="1366" height="768" />
